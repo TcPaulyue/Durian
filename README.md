@@ -1,7 +1,7 @@
 [TOC]
 
 # Durian
-![durian](.\docs\static\cmd.png "durian文档")
+![durian](https://github.com/DurianCoder/Durian/blob/master/docs/static/cmd.png)
 
 
 
@@ -62,11 +62,11 @@
 
 > 1）、在`Durian\config`文件中配置邮箱信息，发件人的账号密码可以在config中配置也可以在环境变量中配置(建议在环境变量中配置)。
 >
-> ![config2.png](.\docs\static\config.png)
+> ![config2.png](https://github.com/DurianCoder/Durian/blob/master/docs/static/config.png)
 
 > 2)、修改`.bash_profile`更改编码、配置发件人账号信息
 >
-> ![config1](.\docs\static\bash_profile.png)
+> ![config1](https://github.com/DurianCoder/Durian/blob/master/docs/static/bash_profile.png)
 
 #### 5、运行
 > 运行程序，扫描结果发送到配置的邮箱:
