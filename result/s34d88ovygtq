@@ -1,0 +1,1135 @@
+{
+    "analysis_nums": {
+        "durian静态规则扫描测试": 0, 
+        "LS算法_未打印调用耗时": 25, 
+        "虚函数注释检查": 0, 
+        "LS算法_未打印进入日志": 21, 
+        "LS算法_未打印函数调用报错": 119, 
+        "c++中变量重复赋值": 0, 
+        "Java接口声明的函数没有文档注释": 0, 
+        "LS算法_未打印离开日志": 20, 
+        "LS算法_未打印输入包文信息": 91
+    }, 
+    "target": "/home/jiang/Sources", 
+    "analysis": {
+        "durian静态规则扫描测试": [], 
+        "LS算法_未打印调用耗时": [
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_ALGO_STRATEGY_REGISTER.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_INFO_MODIFY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_UNREGISTER.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_HOLDING_QRY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_STRATEGY_PROVIDER_QUERY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_Business_Date_Query.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SUBORDER_CANCEL.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsheartbeat/LS_ALGOJR_STATION_HEARTBEAT.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }
+        ], 
+        "虚函数注释检查": [], 
+        "LS算法_未打印进入日志": [
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_RESTORE.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_BACKUP.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }
+        ], 
+        "LS算法_未打印函数调用报错": [
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_PREENTTIMENEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_NEWSCHEMEQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_STATIONQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_ALGO_STRATEGY_REGISTER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_SCHEMEDETAIL_CONTROL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CANCEL_OLD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UFTCORESTATUS_QUERY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_OPERATELOGHIS_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_PREENTMANUALNEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_RESTORE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_INFO_MODIFY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CONTROL_OLD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_JR_SCHEMECANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_PREENTPRICENEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_STOPSL_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SUPPLY_SCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEMEDETAIL_EW_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_SCHEMEDETAIL_CANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUALENTRUST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_SCHEMEDETAIL_FORCE_CANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CANCELFORCE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_ALGOJR_SCHEME_NEW_COMM.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_CHECK_SYSTEM_INIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_JR_TWAPSCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_BACKUP.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_OPERATELOG_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_FSASCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANAULORDID_GET.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_ALGOJR_SCHEME_NEW_COMM_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_SUMMARY_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_RECEPTION_MANUALENTRUST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEME_EDIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEMEDETAIL_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_JR_SCHEMECONTROL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUALENTRUST_EDIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEMESTOCK_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_UNREGISTER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEME_FRONTARY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_LIGHTSTRATEGY_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_ALGO_SYSTEM_INIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUAL_TRIGGER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_CLEAR.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_ARBITRAGESCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lssvrmsg/LS_LS_ALGO_JR_MESSAGE_SEND.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_ALGOJR_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_QUERY_FUTUREKIND.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_PRICEINTERVAL_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_HOLDING_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_REALDEAL_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_STOCKINFO_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTION_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ORDID_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKET_TRADEDAY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTIONINTERCODE_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_MSG_RECOVER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_BUSINESS_DATE_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY_BY_MARKET_NO.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STATION_SCHEME_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STRATEGYTAGS_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_STRATEGY_PROVIDER_QUERY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_TACTICSPARAMETERS_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_ALGOJR_STATION_LOGIN.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_REMAININFO_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_PRICEINTERVAL_QRY_FULL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_Business_Date_Query.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SUBORDER_CANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_FAIL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsheartbeat/LS_LSCORE_STATIONS_CHECK.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsheartbeat/LS_ALGOJR_STATION_HEARTBEAT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PROVIDER_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_realdeal_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_STRATEGY_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32STOCKINFO_CHANGE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32CURRENCYREATE_CHANGE_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_success_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_DAILYINFOMATION_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_MARKETNO_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_UFTCORE_BASEDATALOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PARAMETERS_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32PRICEINTERVAL_CHANGE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUST_REQUEST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_SYSPARAM_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32FUTURESINFO_CHANGE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_entrust_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUSTDIRECTIONS_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }
+        ], 
+        "c++中变量重复赋值": [], 
+        "Java接口声明的函数没有文档注释": [], 
+        "LS算法_未打印离开日志": [
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }
+        ], 
+        "LS算法_未打印输入包文信息": [
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_UFTDATA_DOWNLOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_STATIONQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CANCEL_OLD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UFTCORESTATUS_QUERY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_OPERATELOGHIS_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_RESTORE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_INFO_MODIFY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CONTROL_OLD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ORD_INTERVENE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEMEDETAIL_EW_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD_NEW.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_BACKUP.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANAULORDID_GET.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_RECEPTION_MANUALENTRUST.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ORD_LOCK_UNLOCK.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUALENTRUST_EDIT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEMESTOCK_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_UNREGISTER.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEME_FRONTARY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSCORE_ALGO_SYSTEM_INIT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_CLEAR.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_QUERY_FUTUREKIND.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_PRICEINTERVAL_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_HOLDING_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_REALDEAL_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_STOCKINFO_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTION_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_GET_CURRENCYRATE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ORDID_NEW.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKET_TRADEDAY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTIONINTERCODE_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_MSG_RECOVER.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_BUSINESS_DATE_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY_BY_MARKET_NO.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STATION_SCHEME_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STRATEGYTAGS_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_STRATEGY_PROVIDER_QUERY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_TACTICSPARAMETERS_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_ALGOJR_STATION_LOGIN.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_REMAININFO_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_GET_ENTRUST_BATCH_NO.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_PRICEINTERVAL_QRY_FULL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_Business_Date_Query.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SUBORDER_CANCEL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_FAIL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsheartbeat/LS_LSCORE_STATIONS_CHECK.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsheartbeat/LS_ALGOJR_STATION_HEARTBEAT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PROVIDER_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_realdeal_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_STRATEGY_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32CURRENCYREATE_CHANGE_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_success_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_DAILYINFOMATION_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_MARKETNO_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_UFTCORE_BASEDATALOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PARAMETERS_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUST_REQUEST.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_SYSPARAM_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_entrust_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiang/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUSTDIRECTIONS_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }
+        ]
+    }, 
+    "sid": "s34d88ovygtq"
+}

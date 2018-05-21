@@ -1,0 +1,1948 @@
+{
+    "analysis_nums": {
+        "durian静态规则扫描测试": 0, 
+        "LS算法_未打印调用耗时": 25, 
+        "虚函数注释检查": 116, 
+        "LS算法_未打印进入日志": 21, 
+        "LS算法_未打印函数调用报错": 119, 
+        "c++中变量重复赋值": 0, 
+        "Java接口声明的函数没有文档注释": 0, 
+        "LS算法_未打印离开日志": 20, 
+        "LS算法_未打印输入包文信息": 91
+    }, 
+    "target": "/home/jiangying/Sources", 
+    "analysis": {
+        "durian静态规则扫描测试": [], 
+        "LS算法_未打印调用耗时": [
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_ALGO_STRATEGY_REGISTER.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_INFO_MODIFY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_UNREGISTER.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsheartbeat/LS_ALGOJR_STATION_HEARTBEAT.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_Business_Date_Query.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SUBORDER_CANCEL.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_HOLDING_QRY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_STRATEGY_PROVIDER_QUERY.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印调用耗时"
+            }
+        ], 
+        "虚函数注释检查": [
+            {
+                "code_content": "\tvirtual int GetStockInfo(std", 
+                "line_num": "14", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int GetMarketInfo(std", 
+                "line_num": "15", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int GetHSHQInfo(std", 
+                "line_num": "16", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual double GetPriceInterval(std", 
+                "line_num": "17", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual double GetPriceIntervalEx(int iMarketNo, std", 
+                "line_num": "18", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual std", 
+                "line_num": "19", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int GetDailyInfo(int iMarketNo,int &iDate) = 0", 
+                "line_num": "20", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int GetMarketTradeDay(int iMarketNo,TMarketTradeDay &MarketTradeDay) = 0", 
+                "line_num": "21", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int GetHoldingInfo(IF2Packer *lpFuncInPacker, IF2Packer **lpFuncOutPacker) = 0", 
+                "line_num": "37", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int UpdateRoundInfo(IF2Packer *lpFuncInPacker, int &err_no,std", 
+                "line_num": "38", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int GetEntrustBatchNo(std", 
+                "line_num": "39", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int GetCurrencyRate(CurrencyPairList &_CurrencyPairList, IF2Packer *lpFuncOutPacker, std", 
+                "line_num": "40", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int GetMarketInfoByMarketNo(std", 
+                "line_num": "41", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int QueryAuctionTime(IF2Packer *lpFuncInPacker,IF2Packer **lpFuncOutPacker) = 0", 
+                "line_num": "43", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual std", 
+                "line_num": "44", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual bool FindStocksNotInMap(const std", 
+                "line_num": "45", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual void InsertAuctionTimeMap(const std", 
+                "line_num": "46", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual void QueryAuctionTimeMap(const std", 
+                "line_num": "47", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoFunctionInterface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual bool SubOrderNew() = 0", 
+                "line_num": "261", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/AlgoOrderBase.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnConnected() = 0", 
+                "line_num": "35", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnConnecting() = 0", 
+                "line_num": "36", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnSessionExpired() = 0", 
+                "line_num": "37", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnCreated(const char* path) = 0", 
+                "line_num": "39", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnDeleted(const char* path) = 0", 
+                "line_num": "40", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnChanged(const char* path) = 0", 
+                "line_num": "41", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnChildChanged(const char* path) = 0", 
+                "line_num": "42", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "        virtual void OnNotWatching(const char* path) = 0", 
+                "line_num": "43", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/algo_public/zkcpp.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual bool IsNodeWorking()=0", 
+                "line_num": "30", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_algojragent/algojragent_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual bool IsTableExists(const char *sTableName)=0", 
+                "line_num": "29", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_algojrmem/algojrmem_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual bool IsNodeWorking()=0", 
+                "line_num": "29", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_algosvragent/algosvragent_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual const char * FUNCTION_CALL_MODE GetCode() = 0", 
+                "line_num": "188", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int32  FUNCTION_CALL_MODE GetTransType() = 0", 
+                "line_num": "189", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int64 FUNCTION_CALL_MODE GetTradeVolume() = 0", 
+                "line_num": "190", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual double FUNCTION_CALL_MODE GetTradePrice() = 0", 
+                "line_num": "191", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int64 FUNCTION_CALL_MODE GetTradeIndex() = 0", 
+                "line_num": "192", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetTradeDate() = 0", 
+                "line_num": "193", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetTradeTime() = 0", 
+                "line_num": "194", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetBuyOrderRecNo() = 0", 
+                "line_num": "195", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetSellOrderRecNo() = 0", 
+                "line_num": "196", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int32 FUNCTION_CALL_MODE GetExecType() = 0", 
+                "line_num": "197", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual const char * FUNCTION_CALL_MODE GetCode() = 0", 
+                "line_num": "204", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int32  FUNCTION_CALL_MODE GetTransType() = 0", 
+                "line_num": "205", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int64 FUNCTION_CALL_MODE GetOrderVolume() = 0", 
+                "line_num": "206", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual double FUNCTION_CALL_MODE GetOrderPrice() = 0", 
+                "line_num": "207", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int64 FUNCTION_CALL_MODE GetTradeIndex() = 0", 
+                "line_num": "208", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetOrderDate() = 0", 
+                "line_num": "209", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetOrderTime() = 0", 
+                "line_num": "210", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int32 FUNCTION_CALL_MODE GetSide() = 0", 
+                "line_num": "211", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual const char * FUNCTION_CALL_MODE GetConfirmID() = 0", 
+                "line_num": "212", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetExpirationDays() = 0", 
+                "line_num": "213", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetExpirationType() = 0", 
+                "line_num": "214", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual const char * FUNCTION_CALL_MODE GetContactor() = 0", 
+                "line_num": "215", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual const char * FUNCTION_CALL_MODE GetContactorInfo() = 0", 
+                "line_num": "216", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int32 FUNCTION_CALL_MODE GetExecType() = 0", 
+                "line_num": "217", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~ISZG5XYZRTranscation() = 0", 
+                "line_num": "240", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~ISZG5XYZROrder() = 0", 
+                "line_num": "263", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IMarketOverview() = 0", 
+                "line_num": "400", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~ISimpleTrend() = 0", 
+                "line_num": "431", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~ISimpleQuote() = 0", 
+                "line_num": "714", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IBidOffer() = 0", 
+                "line_num": "754", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~INEEQZSLevelQuote() = 0", 
+                "line_num": "822", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~INEEQZSOrderQuote() = 0", 
+                "line_num": "899", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual uint32 FUNCTION_CALL_MODE GetTimestamp() = 0", 
+                "line_num": "1167", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual int64  FUNCTION_CALL_MODE GetSpecialMark() = 0", 
+                "line_num": "1169", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint64 FUNCTION_CALL_MODE GetTime() = 0", 
+                "line_num": "1183", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual uint32 FUNCTION_CALL_MODE GetStatus() = 0", 
+                "line_num": "1185", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~INEEQXYOrderQuote() = 0", 
+                "line_num": "1241", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IClassifyByTrans () = 0", 
+                "line_num": "1271", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IClassifyByOrder () = 0", 
+                "line_num": "1298", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual DDEItem *FUNCTION_CALL_MODE GetLastDDEQuote() = 0", 
+                "line_num": "1312", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual DDEItem *FUNCTION_CALL_MODE Get5DayDDEQuote() = 0", 
+                "line_num": "1313", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual DDEItem *FUNCTION_CALL_MODE Get60DayDDEQuote() = 0", 
+                "line_num": "1314", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int\t\t FUNCTION_CALL_MODE GetRiseDays() = 0", 
+                "line_num": "1315", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual\tint\t\t FUNCTION_CALL_MODE GetRiseDayPast10() = 0", 
+                "line_num": "1316", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual\t~IDDERealTime () = 0", 
+                "line_num": "1318", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IKInfo() = 0", 
+                "line_num": "1374", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual\t\t~IRealTimeByClose() = 0", 
+                "line_num": "1406", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual\t\t~IRealTimeByAverage() = 0", 
+                "line_num": "1438", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ISecuritySwitchStatus*  FUNCTION_CALL_MODE GetSecuritySwitchCache() = 0", 
+                "line_num": "1761", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual IPostamt* FUNCTION_CALL_MODE GetPostamt(H5_RECV_FUNCTION RecvFunc = NULL, int iConnectID = -1)=0", 
+                "line_num": "1763", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual IPostamt* FUNCTION_CALL_MODE GetPostamtCache()=0", 
+                "line_num": "1764", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IStockRealTimeInfo() = 0", 
+                "line_num": "1963", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IRealTimeEX()=0", 
+                "line_num": "1994", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int FUNCTION_CALL_MODE GetValurByField(int iFieldID) const = 0", 
+                "line_num": "2003", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IResultSetInterface() = 0", 
+                "line_num": "2005", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual ~IConnectInfo() = 0", 
+                "line_num": "2065", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/fsc_hqaccess/h5hq_data_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void\t\tFUNCTION_CALL_MODE SetOwner(void* lpOwner) = 0", 
+                "line_num": "228", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/jicha/t2sdk/Include/esb_message_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void*       FUNCTION_CALL_MODE GetOwner() = 0", 
+                "line_num": "229", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/jicha/t2sdk/Include/esb_message_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual int FUNCTION_CALL_MODE NextItem() = 0", 
+                "line_num": "243", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/jicha/t2sdk/Include/esb_message_interface.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "    virtual void * FUNCTION_CALL_MODE Destroy() = 0", 
+                "line_num": "161", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/jicha/t2sdk/Include/resultset.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual char *makeMemberName( const char *memberName ) = 0", 
+                "line_num": "530", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual void releaseMemberName( char *memberName ) = 0", 
+                "line_num": "531", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual void releaseStringValue( char *value ) = 0", 
+                "line_num": "534", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual ValueInternalMap *newMap() = 0", 
+                "line_num": "586", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual ValueInternalMap *newMapCopy( const ValueInternalMap &other ) = 0", 
+                "line_num": "587", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual void destructMap( ValueInternalMap *map ) = 0", 
+                "line_num": "588", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual ValueInternalLink *allocateMapBuckets( unsigned int size ) = 0", 
+                "line_num": "589", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual void releaseMapBuckets( ValueInternalLink *links ) = 0", 
+                "line_num": "590", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual ValueInternalLink *allocateMapLink() = 0", 
+                "line_num": "591", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual void releaseMapLink( ValueInternalLink *link ) = 0", 
+                "line_num": "592", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual ValueInternalArray *newArray() = 0", 
+                "line_num": "851", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual ValueInternalArray *newArrayCopy( const ValueInternalArray &other ) = 0", 
+                "line_num": "852", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual void destructArray( ValueInternalArray *array ) = 0", 
+                "line_num": "853", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual Value *allocateArrayPage() = 0", 
+                "line_num": "870", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual void releaseArrayPage( Value *value ) = 0", 
+                "line_num": "871", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/value.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "      virtual std", 
+                "line_num": "20", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/json/writer.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "142", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_tentrust.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "94", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_toperatelog.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "78", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_trequestcache.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "94", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_troundinfo.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "142", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_tscheme.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "74", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_tscheme_cacheparams.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "168", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_tschemestock.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "148", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_tschemestock_sum.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "72", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_tsequence.h", 
+                "title": "虚函数注释检查"
+            }, 
+            {
+                "code_content": "\tvirtual void Unlock() = 0", 
+                "line_num": "96", 
+                "solution": "给虚函数没有写文档注释，方便阅读和维护。", 
+                "file_path": "/home/jiangying/Sources/src/uft/algojr_tstations.h", 
+                "title": "虚函数注释检查"
+            }
+        ], 
+        "LS算法_未打印进入日志": [
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_BACKUP.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_RESTORE.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印进入日志"
+            }
+        ], 
+        "LS算法_未打印函数调用报错": [
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_ALGOJR_SCHEME_NEW_COMM.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_ALGOJR_SCHEME_NEW_COMM_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_ALGO_STRATEGY_REGISTER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_ALGO_SYSTEM_INIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_ARBITRAGESCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_CHECK_SYSTEM_INIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_FSASCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_LIGHTSTRATEGY_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANAULORDID_GET.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUALENTRUST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUALENTRUST_EDIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUAL_TRIGGER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_PREENTMANUALNEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_PREENTPRICENEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_PREENTTIMENEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_RECEPTION_MANUALENTRUST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEMEDETAIL_EW_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEMEDETAIL_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CANCELFORCE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CANCEL_OLD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CONTROL_OLD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_STATIONQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_STOPSL_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SUPPLY_SCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_INFO_MODIFY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_UNREGISTER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_BACKUP.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEMESTOCK_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEME_FRONTARY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_NEWSCHEMEQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_OPERATELOGHIS_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_OPERATELOG_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_RESTORE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_SUMMARY_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEME_EDIT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UFTCORESTATUS_QUERY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_CLEAR.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_JR_SCHEMECANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_JR_SCHEMECONTROL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_JR_TWAPSCHEME_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_SCHEMEDETAIL_CANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_SCHEMEDETAIL_CONTROL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LS_ALGO_SCHEMEDETAIL_FORCE_CANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsheartbeat/LS_ALGOJR_STATION_HEARTBEAT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsheartbeat/LS_LSCORE_STATIONS_CHECK.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32CURRENCYREATE_CHANGE_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32FUTURESINFO_CHANGE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32PRICEINTERVAL_CHANGE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32STOCKINFO_CHANGE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_DAILYINFOMATION_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUSTDIRECTIONS_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUST_REQUEST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_MARKETNO_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PARAMETERS_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PROVIDER_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_STRATEGY_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_SYSPARAM_RELOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_UFTCORE_BASEDATALOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_entrust_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_realdeal_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_success_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_Business_Date_Query.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1_1.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_FAIL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SUBORDER_CANCEL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_ALGOJR_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_ALGOJR_STATION_LOGIN.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_BUSINESS_DATE_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY_BY_MARKET_NO.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKET_TRADEDAY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ORDID_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_MSG_RECOVER.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_REMAININFO_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STATION_SCHEME_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STRATEGYTAGS_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_HOLDING_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_PRICEINTERVAL_QRY_FULL.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_QUERY_FUTUREKIND.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_REALDEAL_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_STRATEGY_PROVIDER_QUERY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_TACTICSPARAMETERS_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTIONINTERCODE_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTION_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_PRICEINTERVAL_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_STOCKINFO_QRY.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lssvrmsg/LS_LS_ALGO_JR_MESSAGE_SEND.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印函数调用报错"
+            }
+        ], 
+        "c++中变量重复赋值": [], 
+        "Java接口声明的函数没有文档注释": [], 
+        "LS算法_未打印离开日志": [
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_DATA_MIGRATION.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印离开日志"
+            }
+        ], 
+        "LS算法_未打印输入包文信息": [
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_ALGO_SYSTEM_INIT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANAULORDID_GET.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_MANUALENTRUST_EDIT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_RECEPTION_MANUALENTRUST.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEMEDETAIL_EW_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CANCEL_OLD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_SCHEME_CONTROL_OLD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSCORE_STATIONQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_INFO_MODIFY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ALGO_STRATEGY_UNREGISTER.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_BACKUP.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DATA_MIGRATION_INIT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_DBDATA_LOAD_NEW.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_GET_SEQUENCE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEMESTOCK_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_HISSCHEME_FRONTARY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_OPERATELOGHIS_FRONTQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ORD_INTERVENE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_ORD_LOCK_UNLOCK.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_RESTORE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEQRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMEROUND_QUREY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_SCHEMESTOCK_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UFTCORESTATUS_QUERY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_CLEAR.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_DBDATA_LOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsfront/LS_LSFRONT_UPGRADE_UFTDATA_DOWNLOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsheartbeat/LS_ALGOJR_STATION_HEARTBEAT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsheartbeat/LS_LSCORE_STATIONS_CHECK.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSCORE_O32CURRENCYREATE_CHANGE_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_DAILYINFOMATION_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUSTDIRECTIONS_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_ENTRUST_REQUEST.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_MARKETNO_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PARAMETERS_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_PROVIDER_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_STRATEGY_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_SYSPARAM_RELOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LSMSG_UFTCORE_BASEDATALOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_entrust_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_realdeal_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_success_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsmsg/LS_LS_ALGO_JR_withdraw_waste_PUSH.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_BUSINESS_DATE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_CANCEL_PB2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_ENTRUST_PB2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspb2sim/LS_LSPB2SIM_SYS_MSG.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_Business_Date_Query.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_2_1_1.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_ENTRUST_FAIL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_FUNC_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SCHEME_STATUS.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspbsim/LS_LSPBSIM_SUBORDER_CANCEL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lspub/LS_LS_ALGO_PUB_NIL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_ALGOJR_STATION_LOGIN.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_BUSINESS_DATE_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ENTRUST_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKETINFO_QRY_BY_MARKET_NO.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_MARKET_TRADEDAY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_ORDID_NEW.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_NEW.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_CACHEPARAMS_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_MSG_RECOVER.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_SCHEME_REMAININFO_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STATION_SCHEME_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSCORE_STRATEGYTAGS_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_GET_CURRENCYRATE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_GET_ENTRUST_BATCH_NO.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_HOLDING_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_PRICEINTERVAL_QRY_FULL.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_QUERY_FUTUREKIND.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_REALDEAL_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_SCHEME_ROUND.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_STRATEGY_PROVIDER_QUERY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LSSERVICE_TACTICSPARAMETERS_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTIONINTERCODE_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_OPTION_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_PRICEINTERVAL_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lsservice/LS_LS_ALGO_JR_STOCKINFO_QRY.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_1111.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_ENTRUST_CONCURRENT.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_LIGHTSTRATEGY_CREATE.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_UFT_DATA_LOAD.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }, 
+            {
+                "file_path": "/home/jiangying/Sources/algo_mysql/logic/lstest/LS_LSTEST_test_2.logicservice", 
+                "title": "LS算法_未打印输入包文信息"
+            }
+        ]
+    }, 
+    "sid": "s6a1c6k2v1gx"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<durian document="https://github.com/DurianCoder/Durian">
+    <!-- vid以1开头的规则为动态规则，以2开头的静态规则 -->
+    <vulnerability name="没有打印日志" vid="100"/>
+    <vulnerability name="接口没有注释" vid="110"/>
+    <vulnerability name="变量重复赋值" vid="120"/>
+    <vulnerability name="静态规则扫描" vid="200"/>
+</durian>

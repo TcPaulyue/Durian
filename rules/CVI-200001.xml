@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<durian document="https://github.com/DurianCoder/Durian">
+    <name value="不安全的权限设置"/>
+    <language value="c++"/>
+    <match mode="regex-only-match"><![CDATA[(mkdir|chmod)\s*\(\s*(.*?)\s*,\s*0777\s*\)]]></match>
+    <level value="1"/>
+    <test>
+        <case assert="true"><![CDATA[mkdir ("dir",0777)]]></case>
+        <case assert="true"><![CDATA[chmod('file' ,0777)]]></case>
+    </test>
+    <solution>
+        权限为0777表示所有权限均开放，即属性为:drwxrwxrwx(用户可读可写可执行)。应设置合理的权限，尽量避免0777权限。
+    </solution>
+    <status value="on"/>
+    <author name="jy" email="jiangying1110@outlook.com"/>
+</durian>

@@ -1,0 +1,21 @@
+[email]
+# SMTP Host
+
+host:mail.yourCompanyName.com
+port:25
+
+#Sender info
+USERNAME:2435978786@yourCompanyName.com
+PASSWORD:vnikxhjnskghecdd
+
+#Sender should be company email format
+#sender:zhangsan07777<zhangsan07777@yourCompanyName.com>
+sender:username@yourCompanyName.com
+receiver: jiangying1110@outlook.com
+          
+#receiver: zhangsan07777@yourCompanyName.com,
+#			123@qq.com
+
+[result]
+# The max file numbers in result directory
+max:5

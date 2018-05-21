@@ -1,0 +1,12 @@
+../clang/cindex.py
+../clang/enumerations.py
+../clang/__init__.py
+../clang/cindex.pyc
+../clang/enumerations.pyc
+../clang/__init__.pyc
+.
+top_level.txt
+PKG-INFO
+dependency_links.txt
+SOURCES.txt
+not-zip-safe
